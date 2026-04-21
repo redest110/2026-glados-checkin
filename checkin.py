@@ -26,7 +26,7 @@ if sys.platform.startswith('win'):
 
 # 域名优先级：Cloud 第一
 DOMAINS = [
-    "https://glados.cloud",
+    "https://railgun.info",
     "https://glados.rocks", 
     "https://glados.network",
 ]
